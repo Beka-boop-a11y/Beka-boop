@@ -1,2 +1,2 @@
 # Beka-boop
-tame game
+game
